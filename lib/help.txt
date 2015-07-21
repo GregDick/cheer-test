@@ -1,0 +1,4 @@
+
+Usage:
+
+  cheer.js John Smith
