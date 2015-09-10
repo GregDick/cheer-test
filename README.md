@@ -5,4 +5,11 @@
 [![Dependency Status](https://david-dm.org/gregdick/cheer-test.svg)](https://david-dm.org/gregdick/cheer-test)
 [![devDependency Status](https://david-dm.org/gregdick/cheer-test/dev-status.svg)](https://david-dm.org/gregdick/cheer-test#info=devDependencies)
 
-A command line app using node to generate a cheer
+Learning about code coverage with Code Climate and linking badges to a github repo.
+
+A command line app using node to generate a cheer.
+
+```
+node cheer.js John Smith;
+
+```
